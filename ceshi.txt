@@ -3,4 +3,7 @@ Git is free software distributed under the GPL.
 hello,the world
 sdsdsdsds
 jjkjkjk
+<<<<<<< HEAD
 ss
+=======
+>>>>>>> 904e5f7d9beb48f94ff423ac17796d6a29c204e4
